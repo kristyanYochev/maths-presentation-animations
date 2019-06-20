@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+.DS_Store
+
+# Build files by manimlib
+files
+media
