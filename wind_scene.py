@@ -3,7 +3,7 @@ import os
 import pyclbr
 
 
-class MainScene(Scene):
+class WindScene(Scene):
     def construct(self):
         v = Vector(2.9 * UP)
         nm_text = TexMobject("N_{M}")
